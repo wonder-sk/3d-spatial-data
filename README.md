@@ -15,6 +15,19 @@ If you know about more interesting 3D data sources, please open issues with link
     - https://www.wien.gv.at/ma41datenviewer/public/start.aspx
     - e.g. https://www.wien.gv.at/ma41datenviewer/downloads/ma41/geodaten/lod2_dxf/105082_lod2_dxf.zip
 
+- Linz (lod2 + no texture)
+  http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/
+
+## Belgium
+
+- Brussels
+  http://urbisdownload.gis.irisnet.be/en/temporality
+
+## Canada
+
+- Montréal (lod2 + textures)
+  http://donnees.ville.montreal.qc.ca/dataset/maquette-numerique-batiments-citygml-lod2-avec-textures
+
 ## Czech Republic
 
 -  Prague (lod2)
@@ -27,6 +40,7 @@ If you know about more interesting 3D data sources, please open issues with link
 
 - Helsinki (lod2 + texture)
   http://3d.hel.ninja/data/citygml/
+
   https://kartta.hel.fi/3d
 
 ## France
@@ -47,6 +61,10 @@ If you know about more interesting 3D data sources, please open issues with link
 - Hamburg (lod2)
   http://suche.transparenz.hamburg.de/dataset/3d-stadtmodell-lod2-de-hamburg3?forceWeb=true
 
+## Netherlands
+
+- Rotterdam (lod2 + texture)
+http://rotterdamopendata.nl/dataset/rotterdam-3d-bestanden
 
 ## Switzerland
 
