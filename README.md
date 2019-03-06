@@ -1,6 +1,6 @@
 # 3D Spatial Data Resources
 
-Curated list of links to 3D spatial (GIS) data
+Curated list of links to freely available 3D spatial (GIS) data.
 
 If you know about more interesting 3D data sources, please open issues with links or create pull requests updating this readme file!
 
