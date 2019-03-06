@@ -19,9 +19,15 @@ If you know about more interesting 3D data sources, please open issues with link
 
 -  Prague (lod2)
    http://www.geoportalpraha.cz/cs/opendata/44EE8B0A-641A-45E8-8DC9-CF209ED00897
-   
+
 -  Brno  (lod1)
    https://data.brno.cz/en/dataset/?id=3dmodelbudov2017
+
+## Finland
+
+- Helsinki (lod2 + texture)
+  http://3d.hel.ninja/data/citygml/
+  https://kartta.hel.fi/3d
 
 ## France
 
@@ -29,9 +35,8 @@ If you know about more interesting 3D data sources, please open issues with link
   building footprints + height (128k)
   http://opendata.apur.org/datasets/emprise-batie-paris
 
-- Lyon (lod2 + textury ??)
+- Lyon (lod2 + texture ??)
   https://data.grandlyon.com/search/?Q=maquettes+textur%C3%A9es
-
 
 ## Germany
 
@@ -57,9 +62,12 @@ If you know about more interesting 3D data sources, please open issues with link
 - Boulder, colorado (lod2)  geojson(!)
   https://bouldercolorado.gov/open-data/city-of-boulder-3d-buildings/
 
+- Portland (footprints + height)
+https://gis-pdx.opendata.arcgis.com/datasets/1078959662ce49cca059fe2f8930c194_48
+
 
 # OpenStreetMap - Buildings
 
 https://wiki.openstreetmap.org/wiki/Simple_3D_buildings
 
-Proposal for full 3D buildings https://wiki.openstreetmap.org/wiki/F3DB 
+Proposal for full 3D buildings https://wiki.openstreetmap.org/wiki/F3DB
