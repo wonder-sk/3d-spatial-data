@@ -25,8 +25,8 @@ If you know about more interesting 3D data sources, please open issues with link
 
 ## Canada
 
-- Montréal (lod2 + textures)
-  http://donnees.ville.montreal.qc.ca/dataset/maquette-numerique-batiments-citygml-lod2-avec-textures
+-  Montréal (lod2 + textures)
+   http://donnees.ville.montreal.qc.ca/dataset/maquette-numerique-batiments-citygml-lod2-avec-textures
 
 ## Czech Republic
 
@@ -60,11 +60,14 @@ If you know about more interesting 3D data sources, please open issues with link
 
 - Hamburg (lod2)
   http://suche.transparenz.hamburg.de/dataset/3d-stadtmodell-lod2-de-hamburg3?forceWeb=true
+  
+- North Rhine-Westphalia / NRW (lod1 and lod2)
+  https://www.opengeodata.nrw.de/produkte/geobasis/3d-gm/
 
 ## Netherlands
 
 - Rotterdam (lod2 + texture)
-http://rotterdamopendata.nl/dataset/rotterdam-3d-bestanden
+  http://rotterdamopendata.nl/dataset/rotterdam-3d-bestanden
 
 ## Switzerland
 
