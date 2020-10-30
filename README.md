@@ -28,7 +28,7 @@ If you know about more interesting 3D data sources, please open issues with link
 -  Montréal (lod2 + textures)
    http://donnees.ville.montreal.qc.ca/dataset/maquette-numerique-batiments-citygml-lod2-avec-textures
 
-## Czech Republic
+## Czech
 
 -  Prague (lod2)
    http://www.geoportalpraha.cz/cs/opendata/44EE8B0A-641A-45E8-8DC9-CF209ED00897
