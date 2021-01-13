@@ -64,6 +64,9 @@ If you know about more interesting 3D data sources, please open issues with link
 - North Rhine-Westphalia / NRW (lod1 and lod2)
   https://www.opengeodata.nrw.de/produkte/geobasis/3d-gm/
 
+- Saxony (lod1 + lod2)
+  https://www.geodaten.sachsen.de/digitale-hoehenmodelle-3994.html
+
 ## Netherlands
 
 - Rotterdam (lod2 + texture)
