@@ -38,10 +38,13 @@ If you know about more interesting 3D data sources, please open issues with link
 
 ## Finland
 
-- Helsinki (lod2 + texture)
-  http://3d.hel.ninja/data/citygml/
-
-  https://kartta.hel.fi/3d
+- Helsinki city model information page https://hri.fi/data/en_GB/dataset/helsingin-3d-kaupunkimalli
+- Helsinki city model viewer - https://kartta.hel.fi/3d
+- Helsinki city information model download (CityGML 2 LOD2 + texture) http://3d.hel.ninja/data/citygml/
+- Helsinki city reality mesh download service (OBJ, 2015 and 2017) https://3d.hel.ninja/data/mesh/
+- Espoo city information model (lod2 buildings, terrain areas, CityGML from WFS-API) https://hri.fi/data/en_GB/dataset/espoon-3d-kaupunkimalli
+- Espoo city reality mesh (OBJ, Collada, year 2017) https://hri.fi/data/en_GB/dataset/espoon-verkkomalli
+- Vantaa city information model viewer https://kartta.vantaa.fi/link/71fGqE
 
 ## France
 
