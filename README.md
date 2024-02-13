@@ -65,7 +65,7 @@ If you know about more interesting 3D data sources, please open issues with link
   http://suche.transparenz.hamburg.de/dataset/3d-stadtmodell-lod2-de-hamburg3?forceWeb=true
   
 - North Rhine-Westphalia / NRW (lod1 and lod2)
-  https://www.opengeodata.nrw.de/produkte/geobasis/3d-gm/
+  https://www.opengeodata.nrw.de/produkte/geobasis/3dg/
 
 - Saxony (lod1 + lod2)
   https://www.geodaten.sachsen.de/digitale-hoehenmodelle-3994.html
